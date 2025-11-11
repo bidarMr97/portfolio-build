@@ -1,0 +1,6 @@
+{
+  "/(Default)/page": "/",
+  "/(Farsi)/Farsi-Home/page": "/Farsi-Home",
+  "/(english)/English-Home/page": "/English-Home",
+  "/_not-found/page": "/_not-found"
+}

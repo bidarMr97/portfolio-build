@@ -1,0 +1,6 @@
+{
+  "/(Default)/page": "app/(Default)/page.js",
+  "/(Farsi)/Farsi-Home/page": "app/(Farsi)/Farsi-Home/page.js",
+  "/(english)/English-Home/page": "app/(english)/English-Home/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
+}
