@@ -3,5 +3,14 @@
     "x-nextjs-stale-time": "300",
     "x-nextjs-prerender": "1",
     "x-next-cache-tags": "_N_T_/layout,_N_T_/(Farsi)/layout,_N_T_/(Farsi)/Farsi-Home/layout,_N_T_/(Farsi)/Farsi-Home/page,_N_T_/Farsi-Home"
-  }
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KEZhcnNpKQ/Farsi-Home/__PAGE__",
+    "/!KEZhcnNpKQ/Farsi-Home",
+    "/!KEZhcnNpKQ",
+    "/_index",
+    "/_head"
+  ]
 }

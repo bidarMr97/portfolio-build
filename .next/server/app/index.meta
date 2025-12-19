@@ -4,6 +4,14 @@
     "location": "/Farsi-Home",
     "x-nextjs-stale-time": "300",
     "x-nextjs-prerender": "1",
-    "x-next-cache-tags": "_N_T_/layout,_N_T_/(Default)/layout,_N_T_/(Default)/page,_N_T_/"
-  }
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(Default)/layout,_N_T_/(Default)/page,_N_T_/,_N_T_/index"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KERlZmF1bHQp/__PAGE__",
+    "/!KERlZmF1bHQp",
+    "/_index",
+    "/_head"
+  ]
 }

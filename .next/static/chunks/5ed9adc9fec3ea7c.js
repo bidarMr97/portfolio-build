@@ -1,0 +1,5 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,13807,e=>{"use strict";var t=e.i(41184),r=e.i(83414);function a({sectionIds:e}){let[a,o]=(0,r.useState)("");(0,r.useEffect)(()=>{let t=e.map(e=>document.getElementById(e)).filter(Boolean),r=new IntersectionObserver(e=>{e.forEach(e=>{e.isIntersecting&&o(e.target.id)})},{threshold:.5});return t.forEach(e=>r.observe(e)),()=>t.forEach(e=>r.unobserve(e))},[e]);let l={project:"پروژه",skills:"زبان ها و فریم ورک ها",aboutme:"درباره‌ی من",contactme:"تماس با من"};return(0,t.jsx)("div",{className:"flex flex-col gap-2 font-[fa6] text-[18px]",children:e.map(e=>(0,t.jsx)("a",{href:`#${e}`,className:`relative transition-all duration-300 ease-in-out
+            hover:text-[#0888fe]
+            ${a===e?"lg:text-[#0888fe] lg:text-[24px]":"lg:text-gray-700 dark:text-[white]"}
+            after:content-[''] after:absolute after:right-0 after:-bottom-1
+            after:h-[2px] after:bg-[#0888fe] after:transition-all after:duration-300`,children:l[e]},e))})}e.s(["default",()=>a])}]);
